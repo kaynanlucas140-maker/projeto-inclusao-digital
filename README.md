@@ -1,27 +1,39 @@
 # 📱 Oficinas de Inclusão Digital para a Terceira Idade
 
-## 📝 Sobre o Projeto
-Este é um projeto de extensão universitária focado no planejamento e execução de oficinas práticas presenciais para capacitar idosos da comunidade no uso autônomo e seguro de smartphones. A plataforma web serve como uma central de visualização para toda a documentação, cronograma e gestão do projeto.
+Este é um site informativo, responsivo e interativo desenvolvido como parte do meu Projeto de Extensão Universitária Unisuam. O objetivo principal do projeto é planejar e documentar oficinas presenciais para ensinar idosos da comunidade a usarem seus celulares com autonomia e, principalmente, com segurança no ambiente digital.
 
 ---
 
-## 🚀 Links Úteis
-* **Site Publicado (GitHub Pages):** [CLIQUE AQUI PARA ACESSAR O SITE](https://kaynanlucas140-maker.github.io/projeto-inclusao-digital/)
-* **Código-Fonte:** [CLIQUE AQUI PARA VER OS ARQUIVOS](https://github.com/kaynanlucas140-maker/projeto-inclusao-digital)
+## 🔗 Links Úteis
+
+🌐 **Acesse o site publicado:** [Clique aqui para visualizar o projeto](https://kaynanlucas140-maker.github.io/projeto-inclusao-digital/)  
+💻 **Código-fonte:** [Repositório no GitHub](https://github.com/kaynanlucas140-maker/projeto-inclusao-digital)
+
+---
+
+## 🚀 Funcionalidades
+
+* **Navegação por Abas (Tab System):** Uma lógica em JavaScript que alterna dinamicamente entre os módulos de gerenciamento de projetos sem a necessidade de recarregar a página.
+* **Design Brutalista Marcante:** Identidade visual moderna e de alta legibilidade, utilizando bordas grossas, sombras sólidas e tabelas bem destacadas.
+* **Central de Gestão Avançada:** Exibição clara e organizada do Termo de Abertura (TAP), Estrutura Analítica do Projeto (EAP), Cronograma e Orçamento.
+* **Matriz RACI e Acordions Interativos:** Uso de elementos HTML nativos (`<details>` e `<summary>`) para exibir os planos de mitigação de riscos de forma limpa e intuitiva.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-Para atender às boas práticas de desenvolvimento web e as orientações acadêmicas, o projeto foi estruturado separando estritamente as responsabilidades:
+
+O projeto foi construído utilizando as tecnologias fundamentais da web, sem o uso de frameworks externos:
 * **HTML5:** Estruturação semântica de todo o conteúdo e tabelas de gestão.
-* **CSS3:** Estilização baseada no design *Brutalista* (uso de bordas espessas, sombras marcadas e alta legibilidade).
-* **JavaScript (Vanilla):** Lógica dinâmica para a navegação em abas (Tab System) sem recarregamento de página.
+* **CSS3:** Estilização baseada no design Brutalista, layout responsivo e controle visual das abas.
+* **JavaScript (ES6):** Manipulação de classes no DOM para criar o comportamento dinâmico de troca de telas.
+* **GitHub Pages:** Hospedagem e publicação do site de forma gratuita.
 
 ---
 
-## 📂 Estrutura de Arquivos
-```text
-├── index.html      # Estrutura e conteúdo do site
-├── style.css       # Estilização e identidade visual (Brutalista)
-├── script.js       # Comportamento dinâmico das abas
-└── README.md       # Documentação do repositório
+## 🔧 Como rodar o projeto localmente
+
+Se quiser testar ou modificar este projeto no seu computador, siga os passos abaixo:
+
+1. Clone o repositório ou baixe o arquivo ZIP:
+   ```bash
+   git clone [https://github.com/kaynanlucas140-maker/projeto-inclusao-digital.git](https://github.com/kaynanlucas140-maker/projeto-inclusao-digital.git)
